@@ -1,2 +1,3 @@
 # semanaomnistack10
-Aplicação desenvolvida durante a Semana Omnistack 10.
+
+Aplicação DevRadar, desenvolvida durante a Semana Omnistack 10.
